@@ -30,13 +30,15 @@ Welcome to my personal portfolio website! This is a fully responsive and interac
 - **AOS (Animate on Scroll Library)**
 
 ## 📂 Project Structure
-/project-root │── index.html # Main HTML file 
-              │── styles.css # Main CSS styles 
-              │── script.js # JavaScript interactions 
-              │── img/ # Images and assets 
-              │── README.md # Project Documentation
 
-
+```bash
+/project-root
+│── index.html      # Main HTML file
+│── styles.css      # Main CSS styles
+│── script.js       # JavaScript interactions
+│── img/            # Images and assets
+│── README.md       # Project Documentation
+```
 ## 📦 Installation & Usage
 
 To run the project locally, follow these steps:
