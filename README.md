@@ -1,95 +1,64 @@
-🌊 Advanced Portfolio Website
+# 🚀 Personal Portfolio Website
 
-Welcome to the Advanced Portfolio Website repository! This project is designed to showcase personal and professional projects with a modern, stylish, and responsive design. It includes sections for about, skills, portfolio, services, testimonials, blog, and contact information.
+Welcome to my personal portfolio website! This is a fully responsive and interactive portfolio to showcase my skills, projects, and services.
 
-🚀 Features
+## 🌟 Features
 
-🌟 Fully Responsive Design – Works seamlessly on all screen sizes.
+- 🔹 **Fully Responsive Design** – Works seamlessly on all devices.
+- 🔹 **Dark/Light Mode Toggle** – User-friendly theme switcher.
+- 🔹 **Interactive Animations** – Smooth animations using AOS (Animate on Scroll).
+- 🔹 **Modern UI/UX** – Styled with CSS3 and animations.
+- 🔹 **Dynamic Portfolio Filter** – Sort projects by category.
+- 🔹 **Blog Section** – Latest articles on web development and design.
+- 🔹 **Testimonials Section** – Client feedback and reviews.
+- 🔹 **Contact Form** – Reach out to me easily.
 
-🎨 Advanced UI/UX – Beautiful animations and smooth transitions.
+## 📸 Screenshots
 
-🌗 Dark & Light Mode – Toggle between themes effortlessly.
+![image](https://github.com/user-attachments/assets/5ef67316-d867-4701-8537-23b69b4e79fc)
 
-⚡ Optimized Performance – Fast-loading pages with optimized assets.
+![image](https://github.com/user-attachments/assets/0e8ed7fe-ddaa-42f6-8da4-0067439fc294)
 
-📂 Modular Code Structure – Clean and well-structured files for easy maintenance.
 
-🖥️ Portfolio Showcase – Display your best projects with filtering options.
 
-💬 Testimonials Section – Show reviews and feedback from clients.
+## 🛠️ Built With
 
-✍️ Dynamic Blog Section – Share your thoughts and articles with an interactive layout.
+- **HTML5**
+- **CSS3 & SCSS**
+- **JavaScript (Vanilla JS)**
+- **FontAwesome Icons**
+- **AOS (Animate on Scroll Library)**
 
-📩 Contact Form – A working form for inquiries and collaborations.
+## 📂 Project Structure
+/project-root │── index.html # Main HTML file 
+              │── styles.css # Main CSS styles 
+              │── script.js # JavaScript interactions 
+              │── img/ # Images and assets 
+              │── README.md # Project Documentation
 
-🛠️ Technologies Used
 
-HTML5 – Semantic and well-structured markup.
+## 📦 Installation & Usage
 
-CSS3 & SASS – Styled with modern design principles.
+To run the project locally, follow these steps:
 
-JavaScript (ES6+) – Interactive and dynamic functionalities.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Vasu657/personel_portfolio.git
+   
+2. Navigate into the project directory:
+    cd personel_portfolio
+3. Open index.html in your browser.
 
-AOS (Animate On Scroll) – Smooth animations and transitions.
+📧 Contact Me
+Feel free to reach out:
 
-FontAwesome – Icons for enhanced UI.
-
-Google Fonts – Custom typography for better readability.
-
-📂 Folder Structure
-
-📥 Installation & Setup
-
-Clone the repository
-
-Navigate to the project folder
-
-Open index.html in your browser
-
-🚀 Deployment
-
-Deploy the website using GitHub Pages, Netlify, or Vercel.
-
-To deploy on GitHub Pages:
-
-Go to your repository settings.
-
-Enable GitHub Pages under the Pages section.
-
-Select the main branch as the source.
-
-Your site will be live at https://your-username.github.io/advanced-portfolio-website/
-
-🎨 Customization
-
-Update styles.css for color themes and styling tweaks.
-
-Modify script.js to add new functionalities.
-
-Replace portfolio images and descriptions in the portfolio section.
+🌐 Portfolio
+📩 Email: vasughanta660@gmail.com
 
 🤝 Contributing
+Contributions are welcome! If you find a bug or have an idea, feel free to open an issue or submit a pull request.
 
-Contributions are welcome! Follow these steps:
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Fork the repository.
 
-Create a new branch (git checkout -b feature-new-feature).
-
-Commit your changes (git commit -m 'Added a new feature').
-
-Push to the branch (git push origin feature-new-feature).
-
-Open a Pull Request.
-
-📧 Contact
-
-For any queries or collaboration opportunities, reach out to:
-
-Portfolio: Your Website
-
-Email: your-email@example.com
-
-GitHub: Your GitHub Profile
-
-LinkedIn: Your LinkedIn Profile
